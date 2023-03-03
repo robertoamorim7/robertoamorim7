@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 01/27/1999<br>📚 I'm currently learning Angular and Java<br>🎯 Goals: become a mobile developer</p>
+<p align="left">✨ Creating bugs since 01/27/1999<br>📚 I'm currently learning Angular and Golang<br>🎯 Goals: become a backend software developer</p>
 
 ###
 
